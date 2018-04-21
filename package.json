@@ -1,0 +1,14 @@
+{
+  "name": "shopy",
+  "version": "1.0.0",
+  "description": "Shopy shop",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sergey Peshkov",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-sass": "^3.2.1"
+  }
+}
